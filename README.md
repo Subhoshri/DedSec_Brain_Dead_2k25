@@ -12,9 +12,7 @@ This project analyzes historical IPL data (2008-2024) to uncover trends, insight
 ### Project Structure
 - `dedsec_brain_dead_2k25.ipynb` - Jupyter Notebook with data processing, EDA, and model training.
 
-- `data/` - Folder containing datasets (matches.csv, deliveries.csv).
-
-- `models/` - Saved models for future predictions.
+- `content/` - Folder containing datasets (matches.csv, deliveries.csv) and saved models.
 
 ### Steps Taken
 #### 1. Data Cleaning & Feature Engineering
@@ -74,7 +72,7 @@ The focus was on models that would deliver high-quality summaries while being co
 
 ### Project Structure
 - `dedsec_brain_dead_2k25.ipynb` - Jupyter Notebook with data processing, EDA, and model training.
-- `data/` - folder containing the CompScholar dataset
+- `content/` - folder containing the CompScholar dataset
 
 ### Steps Taken
 #### 1. Data Collection
